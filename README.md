@@ -10,15 +10,15 @@ This platform makes daily commuting smarter with features like real-time ride se
 
 🌍 **Overview**
 
-The Dynamic Ride-Sharing and Carpooling Platform is built to make urban commuting smarter, safer, and more sustainable.
+- The Dynamic Ride-Sharing and Carpooling Platform is built to make urban commuting smarter, safer, and more sustainable.
 
 
-Drivers can create and manage rides, while passengers can search, book, and pay securely for shared rides in real time.
+- Drivers can create and manage rides, while passengers can search, book, and pay securely for shared rides in real time.
 
 
-Admins can monitor the system with a dedicated dashboard for user and ride management.
+- Admins can monitor the system with a dedicated dashboard for user and ride management.
 
-This project highlights the power of modern web technologies in building scalable, secure, and socially impactful mobility solutions.
+- This project highlights the power of modern web technologies in building scalable, secure, and socially impactful mobility solutions.
 
 ---
 
@@ -123,24 +123,24 @@ Version Control :	Git & GitHub
 
 🧠 **System Architecture**
 
-Frontend (ReactJS + Tailwind)
+- Frontend (ReactJS + Tailwind)
 
         
         
-RESTful API (Spring Boot)
+- RESTful API (Spring Boot)
 
         
         
-Database (MySQL)
+- Database (MySQL)
 
         
         
-Payment Gateway (Razorpay)
+- Payment Gateway (Razorpay)
 
 
         
         
-Map & Route Service (OpenRouteService)
+- Map & Route Service (OpenRouteService)
 
 ---
 
@@ -203,7 +203,7 @@ Many-to-Many → Passengers can book multiple rides
 
 
 
-Landing Page	🖥️ Home interface with navigation
+- Landing Page	🖥️ Home interface with navigation
 
 
 
@@ -218,7 +218,7 @@ Landing Page	🖥️ Home interface with navigation
 
 
 
-Driver Registration	🚘 Create driver account
+- Driver Registration	🚘 Create driver account
 
 
 
@@ -235,7 +235,7 @@ Driver Registration	🚘 Create driver account
 
 
 
-Ride Search	🔍 Passenger searching rides
+- Ride Search	🔍 Passenger searching rides
 
 
 
@@ -250,7 +250,7 @@ Ride Search	🔍 Passenger searching rides
 
 
 
-Payment	💳 Razorpay payment screen
+- Payment	💳 Razorpay payment screen
 
 
 
@@ -259,7 +259,7 @@ Payment	💳 Razorpay payment screen
 
 
 
-Admin Dashboard	🧾 Manage users, rides, and payments
+- Admin Dashboard	🧾 Manage users, rides, and payments
 
 
 
@@ -274,13 +274,13 @@ Admin Dashboard	🧾 Manage users, rides, and payments
 ---
 🧪 **Testing**
 
-Frontend: Tested on Chrome, Firefox, and Edge for responsiveness
+- Frontend: Tested on Chrome, Firefox, and Edge for responsiveness
 
-Backend: Tested using Postman for API validation
+- Backend: Tested using Postman for API validation
 
-Performance: Verified under concurrent ride bookings and high traffic
+- Performance: Verified under concurrent ride bookings and high traffic
 
-Security: Checked JWT expiry, unauthorized access, and data encryption
+- Security: Checked JWT expiry, unauthorized access, and data encryption
 
 
 ---
