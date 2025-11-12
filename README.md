@@ -29,22 +29,22 @@ This project highlights the power of modern web technologies in building scalabl
 
 🔐 Security & Authentication
 
-JWT-based authentication for secure login and sessions
+  -> JWT-based authentication for secure login and sessions
 
-Role-based access (Admin / Driver / Passenger)
+  -> Role-based access (Admin / Driver / Passenger)
 
-Passwords securely hashed using bcrypt
+  -> Passwords securely hashed using bcrypt
 
 
 
 
 🚘 Ride Management
 
-Drivers can create, update, or cancel rides
+  -> Drivers can create, update, or cancel rides
 
-Passengers can search and book rides in real time
+  -> Passengers can search and book rides in real time
 
-Admin can manage users and rides
+  -> Admin can manage users and rides
 
 
 
@@ -52,37 +52,37 @@ Admin can manage users and rides
 
 💳 Payment & Fare System
 
-Razorpay integration for online payments
+  -> Razorpay integration for online payments
 
-OpenRouteService API for dynamic, distance-based fare calculation
+  -> OpenRouteService API for dynamic, distance-based fare calculation
 
 
 
 
 💬 Real-Time Communication
 
-WebSocket-based notifications (booking confirmations, cancellations, etc.)
+  -> WebSocket-based notifications (booking confirmations, cancellations, etc.)
 
-Email notifications for important updates
+  -> Email notifications for important updates
 
 
 
 
 🖥️ Responsive UI
 
-Built with ReactJS + Tailwind CSS
+  -> Built with ReactJS + Tailwind CSS
 
-Mobile-friendly design for smooth cross-device experience
+  -> Mobile-friendly design for smooth cross-device experience
 
 
 
 🧾 Admin Dashboard
 
-User and ride management
+  -> User and ride management
 
-Transaction monitoring
+  -> Transaction monitoring
 
-System performance analytics
+  -> System performance analytics
 
 
 ---
@@ -91,32 +91,32 @@ System performance analytics
 💻 **Tech Stack**
 
 
-Layer	Technologies Used
+**Layer  :	Technologies Used**
 
 
-Frontend	ReactJS, Tailwind CSS, Axios
+Frontend :	ReactJS, Tailwind CSS, Axios
 
 
-Backend	Spring Boot (Java)
+Backend :	Spring Boot (Java)
 
 
-Database	MySQL
+Database :	MySQL
 
 
-Authentication	Spring Security + JWT
+Authentication :	Spring Security + JWT
 
 
-Payments	Razorpay API
+Payments :	Razorpay API
 
 
-Mapping & Distance	OpenRouteService API
+Mapping & Distance :	OpenRouteService API
 
 
-Testing Tools	Postman, Browser Testing
+Testing Tools :	Postman, Browser Testing
 
 
 
-Version Control	Git & GitHub
+Version Control :	Git & GitHub
 
 ---
 
@@ -148,35 +148,35 @@ Map & Route Service (OpenRouteService)
 
 👥 User Module
 
-Registration, Login, and Profile management
+ - Registration, Login, and Profile management
 
-Role-based access control
+ - Role-based access control
 
 🚗 Driver Module
 
-Create, update, and manage rides
+ - Create, update, and manage rides
 
-Set available seats and fare
+ - Set available seats and fare
 
 🧍 Passenger Module
 
-Search and book available rides
+ - Search and book available rides
 
-Make secure payments
+ - Make secure payments
 
 🛠️ Admin Module
 
-Manage all users and rides
+ - Manage all users and rides
 
-Monitor transactions
+ - Monitor transactions
 
-Remove inactive or fraudulent accounts
+ - Remove inactive or fraudulent accounts
 
 ---
 
 🗃️ **Database Design**
 
-Key Tables
+**Key Tables**
 
 users – stores user credentials and roles
 
@@ -188,7 +188,7 @@ payments – transaction records
 
 reviews – user feedback
 
-Relationships
+**Relationships**
 
 One-to-Many → A driver can create multiple rides
 
@@ -199,7 +199,7 @@ Many-to-Many → Passengers can book multiple rides
 
 🖼️ **Screenshots**
 
-Feature	Screenshot
+**Feature Screenshot**
 
 
 
