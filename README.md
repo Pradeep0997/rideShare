@@ -118,29 +118,28 @@ Testing Tools	Postman, Browser Testing
 
 Version Control	Git & GitHub
 
-
+---
 
 
 🧠 **System Architecture**
 
 Frontend (ReactJS + Tailwind)
 
-
-
         ↓
+        
 RESTful API (Spring Boot)
 
-
         ↓
+        
 Database (MySQL)
 
-
         ↓
+        
 Payment Gateway (Razorpay)
 
 
-
         ↓
+        
 Map & Route Service (OpenRouteService)
 
 ---
@@ -197,6 +196,7 @@ Many-to-Many → Passengers can book multiple rides
 
 
 --- 
+
 🖼️ **Screenshots**
 
 Feature	Screenshot
