@@ -85,16 +85,37 @@ Transaction monitoring
 System performance analytics
 
 
---
+---
+
+
 💻 **Tech Stack**
+
+
 Layer	Technologies Used
+
+
 Frontend	ReactJS, Tailwind CSS, Axios
+
+
 Backend	Spring Boot (Java)
+
+
 Database	MySQL
+
+
 Authentication	Spring Security + JWT
+
+
 Payments	Razorpay API
+
+
 Mapping & Distance	OpenRouteService API
+
+
 Testing Tools	Postman, Browser Testing
+
+
+
 Version Control	Git & GitHub
 
 
@@ -103,12 +124,22 @@ Version Control	Git & GitHub
 🧠 **System Architecture**
 
 Frontend (ReactJS + Tailwind)
+
+
+
         ↓
 RESTful API (Spring Boot)
+
+
         ↓
 Database (MySQL)
+
+
         ↓
 Payment Gateway (Razorpay)
+
+
+
         ↓
 Map & Route Service (OpenRouteService)
 
@@ -176,7 +207,10 @@ Landing Page	🖥️ Home interface with navigation
 
 
 
-<img width="988" height="460" alt="image" src="https://github.com/user-attachments/assets/19dcd368-c6d1-4124-8bb9-ec1babdf1158" />
+
+
+
+<img width="1347" height="632" alt="image" src="https://github.com/user-attachments/assets/e7a18ee5-f3ea-4acd-a839-6ab68188206a" />
 
 
 
@@ -189,9 +223,9 @@ Driver Registration	🚘 Create driver account
 
 
 
+<img width="988" height="460" alt="image" src="https://github.com/user-attachments/assets/19dcd368-c6d1-4124-8bb9-ec1babdf1158" />
 
 
-<img width="1347" height="632" alt="image" src="https://github.com/user-attachments/assets/e7a18ee5-f3ea-4acd-a839-6ab68188206a" />
 
 
 
@@ -221,8 +255,7 @@ Payment	💳 Razorpay payment screen
 
 
 
-
-<img width="991" height="456" alt="image" src="https://github.com/user-attachments/assets/baeefac1-cada-4954-b245-7608dd64a172" />
+<img width="1150" height="527" alt="image" src="https://github.com/user-attachments/assets/9c005209-b922-48ac-8a78-8b4752cb2367" />
 
 
 
@@ -233,7 +266,8 @@ Admin Dashboard	🧾 Manage users, rides, and payments
 
 
 
-<img width="1150" height="527" alt="image" src="https://github.com/user-attachments/assets/9c005209-b922-48ac-8a78-8b4752cb2367" />
+
+<img width="991" height="456" alt="image" src="https://github.com/user-attachments/assets/baeefac1-cada-4954-b245-7608dd64a172" />
 
 
 
@@ -320,6 +354,8 @@ Settipalle Pradeep Reddy
 
 
 ---
+
+
 📜 **License**
 
 This project is open-source and available under the MIT License
