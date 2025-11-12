@@ -125,20 +125,20 @@ Version Control	Git & GitHub
 
 Frontend (ReactJS + Tailwind)
 
-        ↓
+        
         
 RESTful API (Spring Boot)
 
-        ↓
+        
         
 Database (MySQL)
 
-        ↓
+        
         
 Payment Gateway (Razorpay)
 
 
-        ↓
+        
         
 Map & Route Service (OpenRouteService)
 
